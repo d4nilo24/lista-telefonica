@@ -7,4 +7,4 @@ Para abri-lo é necessário:
 1. Instalar o Node.JS ou tê-lo instalado em sua máquina;
 2. Abrir um novo terminal no VS CODE (ou outro editor de código-fonte) e selecionar Command Prompt (cmd);
 3. Executar o seguinte comando: npm install console-read-write
-4. Node nomeDoArquivo.js
+4. Executar este comando: node nomeDoArquivo.js
